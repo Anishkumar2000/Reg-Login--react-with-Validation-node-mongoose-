@@ -1,0 +1,31 @@
+.log_box{
+    height: 50vh;
+    width: 30vw;
+    background: #2596be;
+    border-radius: 1rem;
+    /* box-shadow: 0.1rem 0.1rem 0.1rem black ; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.log_head{
+    height: 10vh;
+    width: 100%;
+    color: orange;
+    /* background-color: antiquewhite; */
+}
+.log_content{
+    height: 25vh;
+    width: 100%;
+    /* background: greenyellow; */
+}
+.log_field{
+    height: 10vh;
+    width: 80%;
+    /* background-color: aqua; */
+    margin-left: 15%;
+}
+
+
+.log_btn{
+    height: 15vh;
+    width: 100%;
+}

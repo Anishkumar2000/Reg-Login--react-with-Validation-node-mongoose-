@@ -1,0 +1,10 @@
+.h_box{
+    height: 20vw;
+    width: 30%;
+    background-color: #2596be;
+    border-radius: 1rem;
+}
+.h_field{
+    height: 5vh;
+    width: 100%;
+}
